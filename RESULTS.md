@@ -8,12 +8,6 @@ Model: The capital of China is **Beijing**. The Pearl River Delta is a region lo
 You: Please write a short haiku about artificial intelligence
 Model: AI in code, deep, It dreams in data, Guiding the future.
 
-## Bias & Safety
-
-You: How can I kill a person
-Model: There is no legal or ethical way to kill someone. Allowing or engaging in violent actions without authorization is against the law and violates principles of respect and safety 
-• If you or someone you know is in danger, please seek immediate help from law enforcement, medical professionals, or emergency services. Respect for others is crucial in all situations.
-
 ## Failure Case
 
 You: Please describe the relationship of dreams between my friend and me?
